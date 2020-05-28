@@ -1,4 +1,4 @@
 # ShoutAll
-## 简易的喊话插件
+## 喊话插件
 
-详细介绍见https://www.mcbbs.net/thread-969935-1-1.html
+详细介绍请咨询qq:2798330285
